@@ -31,7 +31,7 @@ I'm a **Computer Science student** passionate about building modern web applicat
 
 * Location: India
 * Current Focus: Full Stack Development, AI Automation, and Open Source
-* Learning: React, Node.js, Express, MongoDB, and n8n
+* Learning: React, web development , agentic ai ,, Node.js, and n8n
 * Portfolio: Coming Soon
 
 ---
@@ -50,9 +50,7 @@ I'm a **Computer Science student** passionate about building modern web applicat
 
 A modern password generator with customizable options, strength analysis, entropy estimation, and a simulated breach-risk checker built using HTML, CSS, and JavaScript.
 
-### CampusHub (In Progress)
 
-A collaborative college community platform for events, clubs, lost-and-found, study groups, and notices, developed with a team using GitHub workflows.
 
 ### Automation Experiments
 
