@@ -28,6 +28,7 @@
 ## About Me
 
 I'm a **Computer Science student** passionate about building modern web applications, automation workflows, and AI-powered projects. I enjoy learning by creating real-world projects and collaborating with teams using Git and GitHub.
+| Agentic AI • Data Science • Full Stack | Building real-world projects & automation systems | Python • n8n • APIs | 
 
 * Location: India
 * Current Focus: Full Stack Development, AI Automation, and Open Source
