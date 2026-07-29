@@ -1,4 +1,4 @@
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Rahil  👋
 
 <p align="center">
   <picture>
@@ -21,12 +21,12 @@
 
 I'm a developer who enjoys building clean, responsive, and user-focused web applications. I like turning ideas into polished products, exploring modern frontend technologies, and experimenting with AI-powered workflows and automation.
 
-* 📍 **Location:** Your City, Country
+* 📍 **Location:** Your durg , India
 * 🎓 **Education:** Your University / Degree
 * 🔭 **Current Focus:** Full Stack Development & AI Automation
 * 🌱 **Learning:** Next.js, TypeScript, Docker, Cloud
 * 💼 **Portfolio:** https://yourportfolio.com
-* ✉️ **Email:** [your@email.com](mailto:your@email.com)
+* ✉️ **Email:** [rahilwankhede@email.com](mailto:rahilwankhede@email.com)
 
 ---
 
@@ -43,10 +43,6 @@ I'm a developer who enjoys building clean, responsive, and user-focused web appl
 ### Password Generator + Security Checker
 
 A modern password generator with customizable options, strength analysis, breach-risk detection, entropy estimation, and a polished glassmorphism interface.
-
-### CampusHub (Team Project)
-
-A real-world college community platform for events, clubs, study groups, notices, and lost-and-found management with authentication and an admin dashboard.
 
 ### AI Automation Workflows
 
@@ -79,8 +75,8 @@ Workflow automations using n8n, Google services, webhooks, and AI agents for pro
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/xyzcode000"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://linkedin.com/in/Rahil Wankhede"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
 </p>
