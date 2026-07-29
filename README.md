@@ -1,4 +1,4 @@
-# Hi, I'm Rahil Wankhede
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=900&color=22D3EE&vCenter=true&width=560&lines=Hi%2C+I%27m+Rahil+Wankhede;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Open+Source+Learner" alt="Typing Intro" />
 
 <p align="center">
   <picture>
@@ -9,78 +9,92 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xyzcode000">
-    <img src="https://img.shields.io/badge/GitHub-xyzcode000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:rahilwankhede@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rahilwankhede%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="mailto:xyzcode34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xyzcode34%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-url/">
-    <img src="https://img.shields.io/badge/www.linkedin.com/in/rahil-wankhede-zyxcode34-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://github.com/xyzcode000"><img src="https://img.shields.io/badge/GitHub-xyzcode000-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rahil-wankhede-zyxcode34"><img src="https://img.shields.io/badge/LinkedIn-Rahil%20Wankhede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rahilwankhede@gmail.com"><img src="https://img.shields.io/badge/Email-rahilwankhede%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Computer Science student** passionate about building modern web applications, automation workflows, and AI-powered projects. I enjoy learning by creating real-world projects and collaborating with teams using Git and GitHub.
-| Agentic AI • Data Science • Full Stack | Building real-world projects & automation systems | Python • n8n • APIs | 
+I'm **Rahil Wankhede**, a beginner-to-intermediate developer passionate about building practical software and learning real-world development workflows.
 
-* Location: India
-* Current Focus: Full Stack Development, AI Automation, and Open Source
-* Learning: React, web development , agentic ai ,, Node.js, and n8n
-* Portfolio: Coming Soon
+* Full Stack Development
+* AI & Automation with n8n
+* JavaScript, Node.js, and Python
+* UI/UX and modern web interfaces
+* Open source and GitHub collaboration
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mongodb,express,figma" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Password Generator + Security Checker
+### Password Generator + Strength Checker
 
-A modern password generator with customizable options, strength analysis, entropy estimation, and a simulated breach-risk checker built using HTML, CSS, and JavaScript.
+A modern password generator with customizable length, uppercase/lowercase, numbers, symbols, clipboard copy, and a visual strength meter.
 
+**Tech:** HTML, CSS, JavaScript
 
+### AI Automation Workflows
 
-### Automation Experiments
+Experimenting with **n8n**, **Google Gemini**, **webhooks**, **Gmail automation**, and **Google Sheets integration** to build real-world automation systems.
 
-Hands-on workflows using **n8n**, **Google services**, and **AI integrations** for real-world automation and productivity tools.
+### Portfolio & UI Components
+
+Building responsive interfaces, animated SVG headers, modern dashboards, and interactive frontend experiences.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyzcode000&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzcode000&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xyzcode000&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyzcode000&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xyzcode000&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzcode000&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## Current Focus
+
+* Learning **Node.js & Express**
+* Building **team projects**
+* Improving **Git & GitHub workflows**
+* Exploring **AI integrations and automation**
 
 ---
 
 ## Connect With Me
 
-* GitHub: https://github.com/xyzcode000
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-url/
-* Email: [rahilwankhede@gmail.com](mailto:rahilwankhede@gmail.com)
-* Email: [xyzcode34@gmail.com](mailto:xyzcode34@gmail.com)
+<p align="left">
+  <a href="https://github.com/xyzcode000">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahil-wankhede-zyxcode34">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rahilwankhede@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:xyzcode34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Building, learning, and improving one commit at a time.</i>
+  <i>"Build. Learn. Improve. Repeat."</i>
 </p>
