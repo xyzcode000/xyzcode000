@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-xyzcode34%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-url/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahil%20Wankhede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/www.linkedin.com/in/rahil-wankhede-zyxcode34-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
