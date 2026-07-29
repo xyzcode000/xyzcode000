@@ -12,7 +12,8 @@
   <a href="https://github.com/xyzcode000"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/Rahil Wankhede"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:rahilwankhede@email.com"><img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:xyzcode34@email.com"><img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
