@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/xyzcode000"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/Rahil Wankhede"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel" /></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail" /></a>
 </p>
@@ -21,8 +21,8 @@
 
 I'm a developer who enjoys building clean, responsive, and user-focused web applications. I like turning ideas into polished products, exploring modern frontend technologies, and experimenting with AI-powered workflows and automation.
 
-* 📍 **Location:** Your durg , India
-* 🎓 **Education:** Your University / Degree
+* 📍 **Location:**  durg , India
+* 🎓 **Education:** University / Degree
 * 🔭 **Current Focus:** Full Stack Development & AI Automation
 * 🌱 **Learning:** Next.js, TypeScript, Docker, Cloud
 * 💼 **Portfolio:** https://yourportfolio.com
