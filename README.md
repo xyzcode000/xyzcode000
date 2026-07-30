@@ -20,11 +20,17 @@
 
 I'm **Rahil Wankhede**, a beginner-to-intermediate developer passionate about building practical software and learning real-world development workflows.
 
-* Full Stack Development
-* AI & Automation with n8n
-* JavaScript, Node.js, and Python
-* UI/UX and modern web interfaces
-* Open source and GitHub collaboration
+## Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Git & GitHub
+- SQL (learning)
+- FastAPI (learning)
+- AI & Automation with n8n
+- Node.js, and Python
+-Open source and GitHub collaboration
 
 ---
 
