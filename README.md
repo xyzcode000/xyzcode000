@@ -1,180 +1,257 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=900&color=22D3EE&vCenter=true&width=560&lines=Hi%2C+I%27m+Rahil+Wankhede;AI+%26+Backend+Developer;AI+%26+Automation+Enthusiast;Full+Stack+Developer;Open+Source+Learner" alt="Typing Intro" />
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Rahil Wankhede GitHub Header" src="./dark.svg" width="100%">
-  </picture>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Rahil+Wankhede;AI+%26+Backend+Developer;AI+%26+Automation+Enthusiast;Full+Stack+Developer;Open+Source+Learner" alt="Typing Intro" />
 
-<p align="center">
-  <a href="https://github.com/xyzcode000">
-    <img src="https://img.shields.io/badge/GitHub-xyzcode000-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahil-wankhede-zyxcode34">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahil%20Wankhede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rahilwankhede@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rahilwankhede%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Rahil Wankhede GitHub Header" src="./dark.svg" width="100%">
+</picture>
 
----
+<br>
 
-## 👨‍💻 About Me
+<a href="https://xyzcode000.xyz">
+  <img src="https://img.shields.io/badge/Portfolio-xyzcode000.xyz-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=22d3ee" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/rahil-wankhede-zyxcode34">
+  <img src="https://img.shields.io/badge/LinkedIn-Rahil_Wankhede-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/>
+</a>
+<a href="mailto:rahilwankhede@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rahilwankhede@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"/>
+</a>
 
-I'm **Rahil Wankhede**, an aspiring **AI & Backend Developer** focused on building practical software, intelligent automation workflows, and API-driven applications.
+</div>
 
-I enjoy working with **Python, FastAPI, AI integrations, n8n, APIs, and data-driven systems**, while continuously improving my backend and software engineering skills.
+<br>
 
-I'm currently focused on building real-world projects, collaborating through Git & GitHub, and learning modern development workflows.
+## About
 
----
+I'm **Rahil Wankhede**, an aspiring **AI & Backend Developer** who builds practical software, intelligent automation workflows, and API-driven applications.
 
-## 🛠️ Skills
+I work with **Python, FastAPI, AI integrations, n8n and data-driven systems**, and I'm getting better every week at backend engineering, Git and GitHub collaboration, and modern development workflows.
 
-### Programming
-- Python
-- JavaScript
-- HTML
-- CSS
+I build under the name **xyzcode**. **R MATRIX** is the system behind it, and every project I ship lives inside it.
 
-### Backend & APIs
-- FastAPI
-- REST APIs
-- Node.js
-- Express.js
+<br>
 
-### AI & Automation
-- AI Integrations
-- n8n
-- Google Gemini
-- Webhooks
-- Workflow Automation
-- AI-powered Applications
+## Skills
 
-### Data & Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- SQL
+<table>
+  <tr>
+    <td width="190"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=22d3ee" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=22d3ee" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=22d3ee" alt="CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logoColor=22d3ee" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=22d3ee" alt="Express.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-0f172a?style=for-the-badge&logo=n8n&logoColor=22d3ee" alt="n8n"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-0f172a?style=for-the-badge&logoColor=22d3ee" alt="Google Gemini"/>
+      <img src="https://img.shields.io/badge/Webhooks-0f172a?style=for-the-badge&logoColor=22d3ee" alt="Webhooks"/>
+      <img src="https://img.shields.io/badge/AI_Integrations-0f172a?style=for-the-badge&logoColor=22d3ee" alt="AI Integrations"/>
+      <img src="https://img.shields.io/badge/Workflow_Automation-0f172a?style=for-the-badge&logoColor=22d3ee" alt="Workflow Automation"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logoColor=22d3ee" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=22d3ee" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=22d3ee" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-0f172a?style=for-the-badge&logoColor=22d3ee" alt="Matplotlib"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Developer Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=22d3ee" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logoColor=22d3ee" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=22d3ee" alt="Postman"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Learning now</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=22d3ee" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy_+_Alembic-0f172a?style=for-the-badge&logo=sqlalchemy&logoColor=22d3ee" alt="SQLAlchemy and Alembic"/>
+      <img src="https://img.shields.io/badge/JWT_+_RBAC-0f172a?style=for-the-badge&logoColor=22d3ee" alt="JWT and RBAC"/>
+      <img src="https://img.shields.io/badge/Testing-0f172a?style=for-the-badge&logoColor=22d3ee" alt="Testing"/>
+      <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=22d3ee" alt="Docker"/>
+      <img src="https://img.shields.io/badge/LLMs_+_AI_Agents_+_RAG-0f172a?style=for-the-badge&logoColor=22d3ee" alt="LLMs, AI Agents and RAG"/>
+    </td>
+  </tr>
+</table>
 
-### Developer Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+<!-- Removed from the icon row because they were not in your skills list: react, mongodb, figma.
+     Add them back as badges above if you actually use them. -->
 
----
+<br>
 
-## ⚡ Tech Stack
+## Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,fastapi,git,github,vscode,mongodb,figma" />
-</p>
+### R Matrix Personal AI Command Center &nbsp;`in development`
 
-<p align="left">
-  <b>AI & Automation:</b> n8n • Google Gemini • APIs • Webhooks • Workflow Automation
-</p>
+*One Intelligence. Your Entire Digital World.*
 
-<p align="left">
-  <b>Data:</b> Pandas • NumPy • Matplotlib • SQL
-</p>
+A personal AI operating system I'm building solo: a Windows local agent paired with a web dashboard you can reach remotely. It is designed around conversational AI, document search, long-term memory you approve, and developer and project help, using local models and cloud APIs through a model router.
 
----
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Ollama-0f172a?style=flat-square&logo=ollama&logoColor=22d3ee"/>
 
-# 🚀 Featured Projects
+[**View repository**](https://github.com/xyzcode000/R-Matrix-Personal-AI-Command-Center)
 
-## 🧠 Aurex — Project Intelligence & Risk Investigation Engine
+<br>
 
-A government project intelligence system designed to analyze infrastructure projects and identify potential **budget overruns, timeline delays, progress gaps, and project risks**.
+### Aurex: Project Intelligence & Risk Investigation Engine
 
-The system provides project intelligence through budget analysis, timeline analysis, risk scoring, scenario simulation, and predictive insights.
+A government project intelligence system that analyses infrastructure projects to spot **budget overruns, timeline delays, progress gaps and project risks** early. It covers budget and timeline analysis, risk scoring, an investigation engine, and what-if scenario simulation, behind JWT-secured, role-based (RBAC) APIs. Built for Smart India Hackathon 2026, with 163 automated tests passing. Predictive ML models are on the roadmap.
 
-**Tech:** Python, FastAPI, SQLAlchemy, REST APIs, Data Analytics, AI/ML
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0f172a?style=flat-square&logo=sqlalchemy&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/JWT_+_RBAC-0f172a?style=flat-square&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Data_Analytics-0f172a?style=flat-square&logoColor=22d3ee"/>
 
----
+[**View repository**](https://github.com/xyzcode000/aurex)
 
-## 🤖 AI Lead Automation
+<br>
 
-An AI-powered lead automation workflow designed to automate the process of **capturing, qualifying, organizing, and following up with leads**.
+### AI Lead Automation
 
-The workflow connects AI with automation tools to reduce repetitive manual work and turn incoming leads into structured business actions.
+An AI-powered workflow that **captures, qualifies, organises and follows up with leads**, connecting AI with automation tools to cut repetitive manual work and turn incoming leads into structured business actions.
 
-### Key Features
+<details>
+<summary><b>Key features</b></summary>
+
+<br>
+
 - Lead capture through webhooks
 - AI-powered lead qualification
 - HOT / WARM / COLD classification
 - Automated data processing
 - Google Sheets integration
-- Gmail automation
-- Automated follow-up workflows
+- Gmail automation and automated follow-ups
 - API and webhook integrations
 
-**Tech:** n8n, Python, Google Gemini, APIs, Webhooks, Google Sheets, Gmail
+</details>
 
----
+<img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Google_Gemini-0f172a?style=flat-square&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Webhooks-0f172a?style=flat-square&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Google_Sheets-0f172a?style=flat-square&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=flat-square&logo=gmail&logoColor=22d3ee"/>
 
-## 🔐 Password Generator + Strength Checker
+<br>
+<br>
 
-A modern browser-based security utility that generates strong passwords and evaluates their strength.
+### More experiments
 
-### Features
-- Custom password length
-- Uppercase & lowercase characters
-- Numbers and symbols
-- One-click password generation
-- Clipboard copy
-- Password strength meter
-- Responsive interface
+<details>
+<summary><b>Password Generator + Strength Checker</b> &nbsp;·&nbsp; HTML, CSS, JavaScript</summary>
 
-**Tech:** HTML, CSS, JavaScript
+<br>
 
----
+A browser-based security utility that generates strong passwords and scores their strength.
 
-## 🎨 Portfolio & UI Components
+- Custom length, uppercase and lowercase letters, numbers and symbols
+- One-click generation and clipboard copy
+- Live strength meter and a responsive interface
 
-A collection of modern frontend experiments, responsive interfaces, animated SVG components, dashboards, and UI experiences.
+</details>
 
-**Tech:** HTML, CSS, JavaScript
+<details>
+<summary><b>Portfolio & UI Components</b> &nbsp;·&nbsp; HTML, CSS, JavaScript</summary>
 
----
+<br>
 
-# 🎯 Current Focus
+Frontend experiments: responsive interfaces, animated SVG components, dashboards and UI ideas. My portfolio site lives at [xyzcode000.xyz](https://xyzcode000.xyz).
 
-I'm currently focused on becoming a stronger **AI & Backend Developer** by building real-world projects and improving my engineering fundamentals.
+</details>
 
-- 🚀 Building **Aurex** and AI-powered systems
-- 🧠 Learning advanced **FastAPI & backend architecture**
-- 🗄️ Improving **SQL & PostgreSQL**
-- 🔗 Working with **APIs, webhooks & automation**
-- 🤖 Exploring **AI agents and LLM integrations**
-- 🔐 Learning **authentication, JWT & RBAC**
-- 🧪 Improving backend **testing**
-- 🐳 Learning **Docker & deployment**
-- 🌐 Contributing to **GitHub & open source**
-- 💼 Preparing for **AI, Backend & Automation internships**
+<br>
 
----
+## Current Focus
 
-# 📚 Currently Learning
+<div align="center">
 
-```text
-Python
-   ↓
-SQL / PostgreSQL
-   ↓
-FastAPI
-   ↓
-SQLAlchemy + Alembic
-   ↓
-Authentication + JWT + RBAC
-   ↓
-Testing
-   ↓
-Docker
-   ↓
-Deployment
-   ↓
-LLMs + AI Agents + RAG
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=640&lines=Building+Aurex+and+R+Matrix;Improving+FastAPI+and+backend+architecture;Learning+PostgreSQL%2C+JWT+and+RBAC;Exploring+LLMs%2C+AI+agents+and+RAG" alt="Currently working on" />
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Building</b>
+      <ul>
+        <li>Aurex and AI-powered systems</li>
+        <li>R Matrix Personal AI Command Center</li>
+        <li>APIs, webhooks and automation workflows</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <b>Learning</b>
+      <ul>
+        <li>FastAPI and backend architecture</li>
+        <li>SQL and PostgreSQL</li>
+        <li>Authentication, JWT and RBAC</li>
+        <li>Backend testing, Docker and deployment</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <b>Exploring</b>
+      <ul>
+        <li>LLM integrations and AI agents</li>
+        <li>RAG</li>
+        <li>Open source and GitHub collaboration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+> [!TIP]
+> I'm preparing for **AI, Backend and Automation internships**. If you're building something interesting, [get in touch](mailto:rahilwankhede@gmail.com).
+
+<br>
+
+## Learning Path
+
+**Foundations**
+
+```mermaid
+flowchart LR
+    A["Python"] --> B["SQL & PostgreSQL"] --> C["FastAPI"] --> D["SQLAlchemy + Alembic"]
+    classDef s fill:#0f172a,stroke:#22d3ee,color:#e2e8f0
+    class A,B,C,D s
+```
+
+**Shipping and AI**
+
+```mermaid
+flowchart LR
+    E["Auth: JWT + RBAC"] --> F["Testing"] --> G["Docker"] --> H["Deployment"] --> I["LLMs, Agents, RAG"]
+    classDef s fill:#0f172a,stroke:#22d3ee,color:#e2e8f0
+    class E,F,G,H,I s
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=130&section=footer" width="100%" alt="" />
